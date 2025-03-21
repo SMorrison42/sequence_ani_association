@@ -61,7 +61,7 @@ nextflow run main.nf \
 
 ## Credits✨
 
-multilocusblast was originally written by Anusha Reddy Ginni.
+sequence_ani_association was originally written by Anusha Reddy Ginni and Shatavia Morrison.
 
 Thanks to these amazing people for their assistance in the development of this pipeline:
 **[SMorrison42](https://github.com/SMorrison42)**
