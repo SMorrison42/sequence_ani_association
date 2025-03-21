@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+#performs the jaccard similarity index on pairwise genomes
 import argparse
 import Bio
 from Bio import SeqIO
